@@ -1,0 +1,249 @@
+{
+  "uuid": "e6b764178e79283631a3875235bd02c9",
+  "path": "Offline/Satima_s1",
+  "name": "Satima_s1",
+  "content": "This is a motor driver circuit to drive one individual bidirectional motor",
+  "created_at": "2022-07-22 23:43:28",
+  "updated_at": "2022-08-07 18:21:12",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "63d7d59dc445f0ee88543282d0d42ef0",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "4bf3d912b5cf42c3ba4d129b098c1665": 1,
+        "1ae60609edcb859d8c7e885be62b78ae": 2,
+        "63dace8e5fc84aa48fb050b002058c6a": 5,
+        "b585d92194385de14506b560a4a27e20": 4,
+        "ca94110f4544769d36adda4b0515e409": 2,
+        "54b9ebb30ec04f3a9a67d8fa51a8adf6": 1,
+        "6b60977dae874bd7ad4c1bb1037e439d": 2,
+        "a9cfe371947c44d2aeba030cdc3f0bd7": 1,
+        "353ff04a8071d3e6740fa5273965e20c": 1,
+        "3a70e654f81b4814b1a688d0282f72ab": 1,
+        "5c703d98f2824de895fc5ea67bd97a40": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "10uF",
+          4,
+          "C0402",
+          "C1,C2,C4,C6",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "CL05A106MQ5NUNC",
+            "BOM_Manufacturer": "SAMSUNG",
+            "BOM_Supplier Part": "C15525",
+            "BOM_JLCPCB SMD": "Yes",
+            "BOM_LCSC Assembly": "Yes",
+            "BOM_Paste Type": "base",
+            "puuid": "f8eca159cd18407f9d5df374a1c2badf",
+            "uuid": "b585d92194385de14506b560a4a27e20"
+          }
+        ],
+        [
+          "100nF",
+          2,
+          "C0402",
+          "C3,C5",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "CL05B104KO5NNNC",
+            "BOM_Manufacturer": "SAMSUNG",
+            "BOM_Supplier Part": "C1525",
+            "BOM_JLCPCB SMD": "Yes",
+            "BOM_LCSC Assembly": "Yes",
+            "BOM_Paste Type": "base",
+            "puuid": "f8eca159cd18407f9d5df374a1c2badf",
+            "uuid": "ca94110f4544769d36adda4b0515e409"
+          }
+        ],
+        [
+          "Header-Male-2.54_1x4_C59481",
+          2,
+          "HDR-TH_4P-P2.54-V",
+          "H1,H2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "ReliaPro",
+            "BOM_Manufacturer Part": "Headers  Pins 1*4P",
+            "BOM_Supplier Part": "C59481",
+            "puuid": "31a453d5adfc45cea944a6450adf2918",
+            "uuid": "1ae60609edcb859d8c7e885be62b78ae"
+          }
+        ],
+        [
+          "210-91-02GB01",
+          1,
+          "HDR-TH_2P-P2.54-V-M-1",
+          "H3",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C390678",
+            "BOM_Manufacturer": "PINREX",
+            "BOM_Manufacturer Part": "210-91-02GB01",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "7ae61b24ec5d431087f34ea7cfebbd9e",
+            "uuid": "5c703d98f2824de895fc5ea67bd97a40"
+          }
+        ],
+        [
+          "testpoint",
+          5,
+          "TESTPAD",
+          "IN1,IN2,OUT1,OUT2,VREF",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "b729b819852f4104b24a4c9144913ca1",
+            "uuid": "63dace8e5fc84aa48fb050b002058c6a"
+          }
+        ],
+        [
+          "White light_C2290",
+          1,
+          "LED0603-R-RD_WHITE",
+          "PWR",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "KENTO",
+            "BOM_Manufacturer Part": "0603White light",
+            "BOM_Supplier Part": "C2290",
+            "BOM_JLCPCB Part Class": "Basic Part",
+            "puuid": "af16510a196f45a3b2eecfb1ed8360c1",
+            "uuid": "353ff04a8071d3e6740fa5273965e20c"
+          }
+        ],
+        [
+          "1kΩ",
+          1,
+          "R0603",
+          "R1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C2907113",
+            "BOM_Manufacturer": "FOJAN(富捷)",
+            "BOM_Manufacturer Part": "FRC0603J102 TS",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "3a70e654f81b4814b1a688d0282f72ab"
+          }
+        ],
+        [
+          "DRV8870DDAR",
+          1,
+          "HSOP-8_L5.0-W4.0-P1.27-LS6.2-BL-EP",
+          "U1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "TI",
+            "BOM_Manufacturer Part": "DRV8870DDAR",
+            "BOM_Supplier Part": "C86590",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "67628af0f2d54e8685cf3446e2ace674",
+            "uuid": "4bf3d912b5cf42c3ba4d129b098c1665"
+          }
+        ],
+        [
+          "XY301V-A-5.0-2P",
+          1,
+          "CONN-TH_XY301V-A-5.0-2P",
+          "U2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C557651",
+            "BOM_Manufacturer": "--",
+            "BOM_Manufacturer Part": "XY301V-A-5.0-2P",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "634790b3a3634c79b0ccf4a39e7e3d95",
+            "uuid": "54b9ebb30ec04f3a9a67d8fa51a8adf6"
+          }
+        ],
+        [
+          "AMS1117-5.0_C2909825",
+          1,
+          "SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR",
+          "U3",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C2909825",
+            "BOM_Manufacturer": "WPMtek(维攀微)",
+            "BOM_Manufacturer Part": "AMS1117-5.0",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "02ae667aca734971be8a5f58143dd564",
+            "uuid": "a9cfe371947c44d2aeba030cdc3f0bd7"
+          }
+        ],
+        [
+          "M2 PLATED HOLE WITH MINI HOLES",
+          2,
+          "M2 PLATED HOLE WITH MINI HOLES",
+          "U4,U5",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "aeb5072cde544ddbbf3a0f964e1f80dd",
+            "uuid": "6b60977dae874bd7ad4c1bb1037e439d"
+          }
+        ]
+      ],
+      "updateTime": 1659885160,
+      "createTime": 1658522609,
+      "histories": [],
+      "created_at": "2022-07-22 23:43:29",
+      "updated_at": "2022-08-07 18:12:40"
+    },
+    {
+      "uuid": "8ca1f04ce4b67786bdaaa079e9381aaf",
+      "puuid": "e6b764178e79283631a3875235bd02c9",
+      "title": "PCB_Satima_s1",
+      "filename": "PCB_Satima_s1.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "b729b819852f4104b24a4c9144913ca1": 5,
+        "7ae61b24ec5d431087f34ea7cfebbd9e": 1,
+        "398691f1f785460098bbe5ee6590333c": 1,
+        "f8eca159cd18407f9d5df374a1c2badf": 6,
+        "af16510a196f45a3b2eecfb1ed8360c1": 1,
+        "aeb5072cde544ddbbf3a0f964e1f80dd": 2,
+        "67628af0f2d54e8685cf3446e2ace674": 1,
+        "634790b3a3634c79b0ccf4a39e7e3d95": 1,
+        "02ae667aca734971be8a5f58143dd564": 1,
+        "31a453d5adfc45cea944a6450adf2918": 2
+      },
+      "BOM": [],
+      "updateTime": 1659885672,
+      "createTime": 1658525509,
+      "histories": [],
+      "created_at": "2022-07-23 00:31:49",
+      "updated_at": "2022-08-07 18:21:12"
+    }
+  ],
+  "sort": [
+    "cc2b8f7abb55c6d237ca5cf93c9f7a1d",
+    "053fe54d356aeb63a63b681ccbd4d41f",
+    "abc6e77668be36aec0aa2bd48c73451b"
+  ],
+  "title": "Satima_s1",
+  "foldername": "Satima_s1",
+  "schfilename": "Satima_s1.json",
+  "schfilemtime": 1659885160432
+}
