@@ -1,0 +1,127 @@
+{
+  "uuid": "b1e8c9d4e2d1737e957803e90f6a1f11",
+  "path": "Offline/Satima_s2a",
+  "name": "Satima_s2a",
+  "content": "",
+  "created_at": "2022-08-10 14:22:30",
+  "updated_at": "2022-08-10 15:08:02",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "7254d426b468f1bdec665a33c6391135",
+      "title": "schematic_satima_s2a",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "4bf3d912b5cf42c3ba4d129b098c1665": 2,
+        "f7b53e15e017438a9105c7117b070385": 2,
+        "b585d92194385de14506b560a4a27e20": 2,
+        "ca94110f4544769d36adda4b0515e409": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "100nF",
+          2,
+          "C0402",
+          "C1,C3",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "CL05B104KO5NNNC",
+            "BOM_Manufacturer": "SAMSUNG",
+            "BOM_Supplier Part": "C1525",
+            "BOM_JLCPCB SMD": "Yes",
+            "BOM_LCSC Assembly": "Yes",
+            "BOM_Paste Type": "base",
+            "puuid": "f8eca159cd18407f9d5df374a1c2badf",
+            "uuid": "ca94110f4544769d36adda4b0515e409"
+          }
+        ],
+        [
+          "10uF",
+          2,
+          "C0402",
+          "C2,C4",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "CL05A106MQ5NUNC",
+            "BOM_Manufacturer": "SAMSUNG",
+            "BOM_Supplier Part": "C15525",
+            "BOM_JLCPCB SMD": "Yes",
+            "BOM_LCSC Assembly": "Yes",
+            "BOM_Paste Type": "base",
+            "puuid": "f8eca159cd18407f9d5df374a1c2badf",
+            "uuid": "b585d92194385de14506b560a4a27e20"
+          }
+        ],
+        [
+          "DZ254R-11-08-63",
+          2,
+          "HDR-TH_8P-P2.54-V-M",
+          "H1,H2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C2935914",
+            "BOM_Manufacturer": "DEALON(德艺隆)",
+            "BOM_Manufacturer Part": "DZ254R-11-08-63",
+            "puuid": "7142253ac24c42e1954a7f7d1d66b136",
+            "uuid": "f7b53e15e017438a9105c7117b070385"
+          }
+        ],
+        [
+          "DRV8870DDAR",
+          2,
+          "HSOP-8_L5.0-W4.0-P1.27-LS6.2-BL-EP",
+          "U1,U4",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "TI",
+            "BOM_Manufacturer Part": "DRV8870DDAR",
+            "BOM_Supplier Part": "C86590",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "67628af0f2d54e8685cf3446e2ace674",
+            "uuid": "4bf3d912b5cf42c3ba4d129b098c1665"
+          }
+        ]
+      ],
+      "updateTime": 1660131044,
+      "createTime": 1658524224,
+      "histories": [],
+      "created_at": "2022-07-23 00:10:24",
+      "updated_at": "2022-08-10 14:30:44"
+    },
+    {
+      "uuid": "7909d78187737492051849253c59d5e5",
+      "title": "PCB_satima_s2a",
+      "filename": "PCB_satima_s2a.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f8eca159cd18407f9d5df374a1c2badf": 4,
+        "67628af0f2d54e8685cf3446e2ace674": 2,
+        "7142253ac24c42e1954a7f7d1d66b136": 2
+      },
+      "BOM": [],
+      "updateTime": 1660133282,
+      "createTime": 1658527187,
+      "histories": [],
+      "created_at": "2022-07-23 00:59:47",
+      "updated_at": "2022-08-10 15:08:02"
+    }
+  ],
+  "sort": [],
+  "title": "Satima_s2a",
+  "foldername": "Satima_s2a",
+  "schfilename": "Satima_s2a.json",
+  "schfilemtime": 1660131044167
+}
