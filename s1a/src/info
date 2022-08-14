@@ -4,7 +4,7 @@
   "name": "Satima_s1a",
   "content": "This is a motor driver circuit to drive one individual bidirectional motor",
   "created_at": "2022-07-22 23:43:28",
-  "updated_at": "2022-08-10 14:49:36",
+  "updated_at": "2022-08-14 13:14:59",
   "stick": "",
   "documents": [
     {
@@ -113,11 +113,11 @@
         "67628af0f2d54e8685cf3446e2ace674": 1
       },
       "BOM": [],
-      "updateTime": 1660132176,
+      "updateTime": 1660472099,
       "createTime": 1658525509,
       "histories": [],
       "created_at": "2022-07-23 00:31:49",
-      "updated_at": "2022-08-10 14:49:36"
+      "updated_at": "2022-08-14 13:14:59"
     }
   ],
   "sort": [

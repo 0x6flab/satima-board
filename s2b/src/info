@@ -4,7 +4,7 @@
   "name": "Satima_s2b",
   "content": "",
   "created_at": "2022-07-23 00:10:23",
-  "updated_at": "2022-08-10 14:22:43",
+  "updated_at": "2022-08-14 13:18:43",
   "stick": "",
   "documents": [
     {
@@ -202,6 +202,7 @@
       "master": "",
       "thumb": "/images/thumb-default.png",
       "components": {
+        "b729b819852f4104b24a4c9144913ca1": 10,
         "f8eca159cd18407f9d5df374a1c2badf": 7,
         "af16510a196f45a3b2eecfb1ed8360c1": 1,
         "398691f1f785460098bbe5ee6590333c": 1,
@@ -209,15 +210,14 @@
         "67628af0f2d54e8685cf3446e2ace674": 2,
         "aeb5072cde544ddbbf3a0f964e1f80dd": 2,
         "02ae667aca734971be8a5f58143dd564": 1,
-        "7142253ac24c42e1954a7f7d1d66b136": 2,
-        "b729b819852f4104b24a4c9144913ca1": 10
+        "7142253ac24c42e1954a7f7d1d66b136": 2
       },
       "BOM": [],
-      "updateTime": 1659903339,
+      "updateTime": 1660472323,
       "createTime": 1658527187,
       "histories": [],
       "created_at": "2022-07-23 00:59:47",
-      "updated_at": "2022-08-07 23:15:39"
+      "updated_at": "2022-08-14 13:18:43"
     }
   ],
   "sort": [],

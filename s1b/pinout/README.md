@@ -1,10 +1,8 @@
 # PINOUT
 
-This contains the pinout diagram as a pdf or either image format.
+This contains the pinout diagram.
 
-An example is this
-
-<a href="https://www.sparkfun.com/news/1947"><img src="./example.png" width="500px"><br/></a>
+![Pinout diagram](pinout.png)
 
 ## How to do it
 
