@@ -15,7 +15,7 @@ The satima s1a motor driver is an ideal motor driver compared to the L9298N moto
 - EasyEda Symbol. EasyEda symbol [files](commingsoon) for the board that you can use when integrating one of them into one of your PCB designs.
 - EasyEda Footprint. EasyEda footprint [files](commingsoon) for the board including both SMD and TH versions for the S1.
 - Schematics. PDF [Schematics](commingsoon) for the board.
-- Pin Reference Cards. The [pinout reference cards](commingsoon) for each of the board.
+- Pin Reference Cards. The [pinout reference cards](pinout/pinout.svg) for each of the board.
 - Fritzing Parts. Fritzing [parts](commingsoon) for the board.
 
 ## Features

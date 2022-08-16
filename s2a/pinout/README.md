@@ -2,7 +2,7 @@
 
 This contains the pinout diagram.
 
-![Pinout diagram](pinout.png)
+![Pinout diagram](pinout.svg)
 
 ## How to do it
 
